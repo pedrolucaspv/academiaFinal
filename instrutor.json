@@ -1,0 +1,20 @@
+{
+  "especialidade": "Musculação",
+  "academia": {
+    "id": 1,
+    "nome": "Academia Strong",
+    "matricula": "ACD123",
+    "endereco": {
+      "id": 1,
+      "logradouro": "Rua Fitness",
+      "numero": "100",
+      "complemento": "",
+      "bairro": "Centro",
+      "cidade": "FitCity",
+      "uf": "FC",
+      "cep": "12345-678"
+    }
+  },
+  "id": 0,
+  "nome": "Carlos Personal"
+}

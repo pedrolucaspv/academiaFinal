@@ -1,0 +1,90 @@
+[
+  {
+    "planosTreino": [],
+    "avaliacoes": [],
+    "pagamentos": [],
+    "personal": {
+      "especialidade": "Musculação",
+      "academia": {
+        "id": 1,
+        "nome": "Academia Strong",
+        "matricula": "ACD123",
+        "endereco": {
+          "id": 1,
+          "logradouro": "Rua Fitness",
+          "numero": "100",
+          "complemento": "",
+          "bairro": "Centro",
+          "cidade": "FitCity",
+          "uf": "FC",
+          "cep": "12345-678"
+        }
+      },
+      "id": 0,
+      "nome": "Carlos Personal"
+    },
+    "id": 0,
+    "nome": "Pedro",
+    "cpf": "123456789",
+    "endereco": {
+      "id": 2,
+      "logradouro": "Rua Major Euclides Maciel ",
+      "numero": "90",
+      "complemento": "apto 204",
+      "bairro": "Turf",
+      "cidade": "Campos",
+      "uf": "RJ",
+      "cep": "28015-160"
+    }
+  },
+  {
+    "planosTreino": [
+      {
+        "id": 1,
+        "nome": "Musculação",
+        "exercicios": [
+          {
+            "nome": "Supino",
+            "descricao": "Supino reto com barra",
+            "duracao": "00:30:00"
+          }
+        ]
+      }
+    ],
+    "avaliacoes": [],
+    "pagamentos": [],
+    "personal": {
+      "especialidade": "Musculação",
+      "academia": {
+        "id": 1,
+        "nome": "Academia Strong",
+        "matricula": "ACD123",
+        "endereco": {
+          "id": 1,
+          "logradouro": "Rua Fitness",
+          "numero": "100",
+          "complemento": "",
+          "bairro": "Centro",
+          "cidade": "FitCity",
+          "uf": "FC",
+          "cep": "12345-678"
+        }
+      },
+      "id": 0,
+      "nome": "Carlos Personal"
+    },
+    "id": 0,
+    "nome": "Lara ",
+    "cpf": "0987654321",
+    "endereco": {
+      "id": 2,
+      "logradouro": "Rua Fulano Beltrano",
+      "numero": "255",
+      "complemento": "ap 1001",
+      "bairro": "Turf",
+      "cidade": "Campos",
+      "uf": "RJ",
+      "cep": "289012"
+    }
+  }
+]

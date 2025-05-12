@@ -243,7 +243,6 @@ public class Main {
                     String grupo = scanner.nextLine();
                     System.out.print("Duração: ");
                     String duracao = scanner.nextLine();
-                    scanner.nextLine();
                     Exercicio exercicio = new Exercicio(nomeEx, grupo, duracao);
                     planoAtual.adicionarExercicio(exercicio);
                     salvarAlunos(alunos);

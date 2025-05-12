@@ -1,8 +1,33 @@
 [
   {
-    "planosTreino": [],
+    "planosTreino": [
+      {
+        "id": 1,
+        "nome": "Musculação",
+        "exercicios": [
+          {
+            "nome": "Supino",
+            "descricao": "Supino reto com barra",
+            "duracao": "00:30:00"
+          },
+          {
+            "nome": "Crucifixo",
+            "descricao": "máquina",
+            "duracao": "3x15"
+          }
+        ]
+      }
+    ],
     "avaliacoes": [],
-    "pagamentos": [],
+    "pagamentos": [
+      {
+        "id": 0,
+        "valor": 120.0,
+        "formaPagamento": "Cartão",
+        "data": "May 12, 2025, 5:35:24 PM",
+        "status": "Pago"
+      }
+    ],
     "personal": {
       "especialidade": "Musculação",
       "academia": {
